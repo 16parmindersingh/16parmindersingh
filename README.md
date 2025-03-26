@@ -1,60 +1,75 @@
-Hi, I'm Parminder Singh! 👋
+# Hi there, I'm Parminder Singh! 👋
 
-📊 **Aspiring Data Analyst | SQL | Power BI | Excel | Python**
+I'm a **data enthusiast** with a passion for transforming raw data into actionable insights. With 8+ years of experience in financial operations, data analysis, and administrative management, I specialize in using **Python**, **SQL**, **Power BI**, and **Advanced Excel** to solve real-world problems. I love building data-driven solutions that optimize processes, improve decision-making, and drive business impact. 🚀
 
-I'm a data-driven professional transitioning into **Data Analytics** with expertise in **SQL, Power BI, Excel, and Python**. I have a background in commerce and a strong passion for turning raw data into meaningful insights. Currently, I am actively working on data analysis projects to sharpen my skills and prepare for industry roles.
+---
 
-🔧 **Skills & Tools**
+## 🔧 Skills & Tools
 
-**•**   **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Databases:** MySQL  
+- **BI & Visualization Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, XLOOKUP, SUMIF, COUNTIF, Conditional Formatting)  
+- **Other:** Data Cleaning, Exploratory Data Analysis, Dashboard Development, Financial Analysis
 
-**•**   **Databases:** MySQL
+---
 
-**•**   **BI & Visualization:** Power BI, MS Excel (Pivot Tables, VLOOKUP, Conditional Formatting)
+## 🌟 Featured Projects
 
-**•**   **Data Analysis:** EDA, Data Cleaning, KPI Metrics, Report Automation
+### [Diwali Sales Analysis (Python)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Diwali-Sales-Analysis) 📈
+- Analyzed Diwali sales data using Python (Pandas, NumPy, Matplotlib, Seaborn) to identify customer purchasing trends.  
+- Revealed that married women aged 26-35 in Uttar Pradesh were the top buyers, enabling targeted marketing strategies.  
+- Visualized insights (e.g., top 10 products, 3 high-performing states) to guide promotional campaigns.
 
-**•**   **Soft Skills:** Problem-solving, Critical Thinking, Attention to Detail
+### [HR Analytics Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/HR-Analytics-Dashboard) 📊
+- Developed an interactive Power BI dashboard to analyze attrition trends for 1,416 employees, achieving a 16.2% attrition rate.  
+- Created 5+ KPIs (e.g., Avg Salary, Avg Tenure) and identified key attrition drivers (e.g., employees aged 26-35, ≤5K salary slab).  
+- Enabled HR to improve retention strategies by focusing on high-risk groups like Laboratory Technicians.
 
-📂 **Featured Projects**
+### [Pizza Sales Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Pizza-Sales-Analysis) 🍕
+- Analyzed 12 months of pizza sales data (21,380 orders) using 13 SQL queries, calculating $817,860.05 in revenue.  
+- Identified top pizza types (e.g., Thai Chicken Pizza at $43,434.25) and insights (e.g., Large size most ordered, 138 pizzas/day average).  
+- Optimized menu offerings and inventory management using JOINs, aggregations, and window functions.
 
-🔹 **Diwali Sales Analysis** _(Python, Pandas, NumPy, Matplotlib, Seaborn)_
+---
 
-**•**   Analyzed **50,000+ sales records** to identify customer trends and optimize marketing strategies.
+## 💼 Professional Experience
 
-**•**   Cleaned and processed **100% of missing and inconsistent data**, improving data accuracy.
+- **Charging Executive @ AVS Holidays Pvt Ltd (Sep 2024–Present)**  
+  - Leverage Advanced Excel to automate financial reporting, reducing manual effort by 30%.  
+  - Ensure 100% accuracy in transaction tracking and reconciliation.
 
-**•**   Conducted **EDA and data visualization**, leading to a **15% increase in campaign effectiveness** .
+- **Assistant Accountant @ Ram Building Solutions (Apr 2020–Aug 2024)**  
+  - Processed 200+ invoices monthly, reducing discrepancies by 15%.  
+  - Supported financial audits, achieving 95% compliance accuracy.
 
-**•**   Identified top **5 customer segments**, **3 high-performing states, and top 10 best-selling products.**
+- **Office Administrator @ Career Connect (May 2016–Mar 2020)**  
+  - Improved workflow efficiency by 25% through streamlined operations.  
+  - Coordinated activities across 5+ departments, reducing communication delays by 20%.
 
-🔹 **HR Analytics Dashboard** _(Power BI, Data Cleaning, KPI Metrics, Dashboards, Charts)_
+---
 
-**•**   Developed an **interactive dashboard analyzing 1,470 employee records** to track attrition trends.
+## 🎓 Education
 
-**•**   Created **5+ KPIs** (Attrition Rate, Avg Salary, Avg Tenure) for workforce analysis.
+- **Bachelor of Commerce**  
+  Delhi University, 2009–2012
 
-**•**   Identified key attrition drivers, leading to a **10% reduction in employee turnover**.
+---
 
-🔹 Pizza Sales Analysis (MySQL)
+## 📫 Let's Connect!
 
-**•**   Analyzed **12 months of pizza sales data**, optimizing menu offerings and sales strategies.
+- **Email:** [sparminder1608@gmail.com](mailto:sparminder1608@gmail.com)  
+- **LinkedIn:** [Parminder Singh](https://www.linkedin.com/in/16parmindersingh)  
+- **GitHub:** You're already here! 😄 Check out my repositories below.
 
-**•**   Extracted insights from **21,350 total orders**, calculating **$817,000+ in revenue**.
+---
 
-**•**   Identified **peak sales hours (7-9 PM) and top 3 best-selling pizzas**, improving inventory efficiency by **12%**.
+## 🏆 Fun Facts
 
-**•**   Analyzed category-wise revenue contributions, leading to a **7% increase in targeted promotions**.
+- I’ve watched 50+ TED Talks on data science and leadership to fuel my curiosity!  
+- I enjoy teaching Mathematics to local students, sharpening my mentoring skills.  
+- Always learning—currently exploring more advanced SQL and Power BI techniques.
 
-📌 _More projects coming soon!_
+---
 
-📬 Let's Connect
-
-LinkedIn: www.linkedin.com/in/16parmindersingh
-
-GitHub: www.github.com/16parmindersingh
-
-Email: sparminder1608@gmail.com
-
-🚀 _Open to collaboration and job opportunities in Data Analytics!_
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16parmindersingh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16parmindersingh&layout=compact&theme=radical)
