@@ -1,6 +1,8 @@
 # Hi there, I'm Parminder Singh! 👋
 
-I'm a **data enthusiast** with a passion for transforming raw data into actionable insights. With 8+ years of experience in financial operations, data analysis, and administrative management, I specialize in using **Python**, **SQL**, **Power BI**, and **Advanced Excel** to solve real-world problems. I love building data-driven solutions that optimize processes, improve decision-making, and drive business impact. 🚀
+With over 8 years of experience in financial operations and administrative management, I am transitioning into the field of **data analytics**. I have independently mastered **SQL**, **Power BI**, **Python**, and **Advanced Excel* through self-learning platforms like **W3Schools** and **YouTube*. My recent projects include analyzing **Diwali sales** trends using **Python**, building **HR dashboards** with **Power BI**, and optimizing **pizza sales* inventory using **SQL**.
+
+I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver actionable insights that drive business growth. I am passionate about solving complex problems through **data-driven strategies**. 🚀
 
 ---
 
