@@ -1,8 +1,8 @@
 # Hi there, I'm Parminder Singh! 👋
 
-With over 8 years of experience in financial operations and administrative management, I am transitioning into the field of **data analytics**. I have independently mastered **SQL**, **Power BI**, **Python**, and **Advanced Excel* through self-learning platforms like **W3Schools** and **YouTube*. My recent projects include analyzing **Diwali sales** trends using **Python**, building **HR dashboards** with **Power BI**, and optimizing **pizza sales* inventory using **SQL**.
+With over 8 years of experience in financial operations and administrative management, I am transitioning into the field of **management information systems (MIS)**. I have independently mastered **SQL**, **Power BI**, **Python**, and **Advanced Excel** through self-learning platforms like **W3Schools** and **YouTube**. My recent projects include analyzing **Diwali sales** trends using **Python**, building **HR dashboards** with **Power BI**, optimizing **pizza sales** inventory using **SQL**, and analyzing **Vrinda Store 2022 sales** with **Excel**.
 
-I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver actionable insights that drive business growth. I am passionate about solving complex problems through **data-driven strategies**. 🚀
+I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver actionable insights that drive business growth. I am passionate about solving complex problems through **strategic business solutions**. 🚀
 
 ---
 
@@ -11,26 +11,31 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Databases:** MySQL  
 - **BI & Visualization Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, XLOOKUP, SUMIF, COUNTIF, Conditional Formatting)  
-- **Other:** Data Cleaning, Exploratory Data Analysis, Dashboard Development, Financial Analysis
+- **Other:** Data Cleaning, Management Reporting, Dashboard Development, Financial Analysis
 
 ---
 
 ## 🌟 Featured Projects
 
 ### [Diwali Sales Analysis (Python)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Diwali-Sales-Analysis) 📈
-- Analyzed Diwali sales data using Python (Pandas, NumPy, Matplotlib, Seaborn) to identify customer purchasing trends.  
-- Revealed that married women aged 26-35 in Uttar Pradesh were the top buyers, enabling targeted marketing strategies.  
-- Visualized insights (e.g., top 10 products, 3 high-performing states) to guide promotional campaigns.
+- Analyzed Diwali sales data using Python (Pandas, NumPy, Matplotlib, Seaborn) to generate MIS reports on customer purchasing trends.  
+- Identified married women aged 26-35 in Uttar Pradesh as top buyers, enabling targeted management strategies.  
+- Visualized insights (e.g., top 10 products, 3 high-performing states) to support promotional decision-making.
 
 ### [HR Analytics Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/HR-Analytics-Dashboard) 📊
-- Developed an interactive Power BI dashboard to analyze attrition trends for 1,416 employees, achieving a 16.2% attrition rate.  
-- Created 5+ KPIs (e.g., Avg Salary, Avg Tenure) and identified key attrition drivers (e.g., employees aged 26-35, ≤5K salary slab).  
-- Enabled HR to improve retention strategies by focusing on high-risk groups like Laboratory Technicians.
+- Developed an interactive Power BI dashboard to provide MIS insights on attrition trends for 1,416 employees, with a 16.2% attrition rate.  
+- Created 5+ KPIs (e.g., Avg Salary, Avg Tenure) and pinpointed attrition drivers (e.g., employees aged 26-35, ≤5K salary slab).  
+- Enabled HR management to refine retention strategies by targeting high-risk groups like Laboratory Technicians.
 
 ### [Pizza Sales Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Pizza-Sales-Analysis) 🍕
-- Analyzed 12 months of pizza sales data (21,380 orders) using 13 SQL queries, calculating $817,860.05 in revenue.  
-- Identified top pizza types (e.g., Thai Chicken Pizza at $43,434.25) and insights (e.g., Large size most ordered, 138 pizzas/day average).  
-- Optimized menu offerings and inventory management using JOINs, aggregations, and window functions.
+- Analyzed 12 months of pizza sales data (21,380 orders) using 13 SQL queries, calculating $817,860.05 in revenue for MIS reporting.  
+- Highlighted top pizza types (e.g., Thai Chicken Pizza at $43,434.25) and insights (e.g., Large size most ordered, 138 pizzas/day average).  
+- Optimized menu and inventory decisions using JOINs, aggregations, and window functions for business efficiency.
+
+### [Vrinda Store 2022 Sales Analysis (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Vrinda-Store-Sales-Analysis) 📊
+- Analyzed 2022 sales data for Vrinda Store using Excel to create MIS reports on sales trends by gender, age, state, and channels.  
+- Identified women (64% of sales), adults (30-49 yrs, ~50% of orders), and top states (Maharashtra, Karnataka, Uttar Pradesh) as key segments.  
+- Developed a dashboard and report recommending targeted marketing via Amazon, Flipkart, and Myntra for business growth.
 
 ---
 
@@ -67,7 +72,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 
 ## 🏆 Fun Facts
 
-- I’ve watched 50+ TED Talks on data science and leadership to fuel my curiosity!  
+- I’ve watched 50+ TED Talks on MIS and business intelligence to fuel my curiosity!  
 - I enjoy teaching Mathematics to local students, sharpening my mentoring skills.  
 - Always learning—currently exploring more advanced SQL and Power BI techniques.
 
