@@ -108,5 +108,5 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16parmindersingh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16parmindersingh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16parmindersingh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16parmindersingh&layout=compact&theme=radical&hide=markdown,html)
