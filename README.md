@@ -1,21 +1,56 @@
 # Hi there, I'm Parminder Singh! 👋
 
-With over 8 years of experience in financial operations and administrative management, I am transitioning into the field of **management information systems (MIS)**. I have independently mastered **SQL**, **Power BI**, **Python**, and **Advanced Excel** through self-learning platforms like **W3Schools** and **YouTube**. My recent projects include analyzing **Diwali sales** trends using **Python**, building **HR dashboards** with **Power BI**, optimizing **pizza sales** inventory using **SQL**, and analyzing **Vrinda Store 2022 sales** with **Excel**.
+With over 9 years of experience in financial operations and administrative management, I am transitioning into the field of **management information systems (MIS)**. I have independently mastered **Advanced Excel**, **SQL (MySQL/SQL Server)**, and **Power BI** through hands-on projects that transform raw data into actionable MIS reports—focusing on sales trends, financial dashboards, and scalable data pipelines to drive business decisions and organizational growth.
 
-I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver actionable insights that drive business growth. I am passionate about solving complex problems through **strategic business solutions**. 🚀
+I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver strategic insights through management reporting. I am passionate about automating processes and solving complex challenges with data-driven solutions. 🚀
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Databases:** MySQL  
-- **BI & Visualization Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, XLOOKUP, SUMIF, COUNTIF, Conditional Formatting)  
-- **Other:** Data Cleaning, Management Reporting, Dashboard Development, Financial Analysis
+- **BI & Visualization Tools:** Power BI (DAX, Forecasting, Interactive Dashboards), Microsoft Excel (Pivot Tables, Slicers, Dynamic Charts, VLOOKUP, XLOOKUP, SUMIF, COUNTIF, Conditional Formatting)  
+- **Databases:** MySQL, SQL Server (ETL Pipelines, Joins, Aggregations, Data Warehousing)  
+- **Other:** Data Cleaning, Management Reporting, Dashboard Development, Financial Analysis, Trend Analysis, Quality Validation
 
 ---
 
 ## 🌟 Featured Projects
+
+### [Vrinda Store Sales Analysis (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Vrinda-Store-Sales-Analysis) 📊
+- Analyzed 2022 sales data for Vrinda Store using Excel pivot tables and visualizations to uncover MIS trends by gender (64% from women), age (50% from 30-49 yrs), state (top 3 at ~35%), and channels (Amazon/Flipkart/Myntra at 80%).  
+- Built an interactive dashboard and report with recommendations for targeted marketing to boost sales performance.
+
+### [Sales Data Analysis Dashboard (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Sales-Data-Analysis-Dashboard) 📊
+- Created a dynamic Excel dashboard for 4-year U.S. superstore sales (2014-2017), using slicers and pivots to reveal category growth (136% in Technology profits), regional leaders (California at 20%+), and seasonal peaks (51.6% in Q3-Q4).  
+- Generated MIS reports for category optimization, regional strategies, and customer segmentation.
+
+### [Financial Analytics Project (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Financial-Analytics-Project) 💼
+- Developed a multi-dashboard Excel suite for MIS tracking (2020-2025), covering income sources, geographic profits, sales processes, and project KPIs with dynamic slicers and charts.  
+- Provided actionable insights for budget allocation, regional strategies, and workflow optimization via video demo and reports.
+
+### [Super Store Sales Analysis Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Super-Store-Sales-Analysis-Dashboard) 📊
+- Built an interactive Power BI dashboard for 2019-2021 superstore sales, featuring DAX measures, top-10 states visuals, and 15-day forecasts projecting upward trends.  
+- Uncovered regional dominance (California/Texas leads), category profits, and seasonal patterns for inventory and promotion planning.
+
+### [E-Commerce Sales Analysis Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/E-Commerce-Sales-Analysis-Dashboard) 🛒
+- Analyzed Indian e-commerce data in Power BI, visualizing sales (438K total), top states (Maharashtra at 20%+), categories (Clothing at 63%), and payments (COD at 44%), while addressing seasonal losses (May-Dec).  
+- Delivered MIS insights for category focus, regional marketing, and payment strategies.
+
+### [Mobile Sales Analysis Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Mobile-Sales-Analysis-Dashboard) 📱
+- Designed a Power BI dashboard for 2022-2023 mobile sales (769M total, 25-30% YoY growth), with MTD/YOY comparisons, top brands (Apple/Samsung at ~160M each), and urban peaks (Delhi at 203.9M).  
+- Highlighted digital payment shifts and Q4 festive trends for inventory and campaign recommendations.
+
+### [Online Book Store Analysis (SQL/MySQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Online-Book-Store-Analysis) 📚
+- Engineered a relational MySQL database from Books/Customers/Orders CSVs, executing 20+ queries for MIS metrics like total revenue, category/author performance, and customer frequency.  
+- Documented insights in a PDF report for sales optimization and inventory decisions.
+
+### [SQL Retail Sales Analysis (SQL/MySQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/SQL-Retail-Sales-Analysis) 🛍️
+- Performed MySQL analysis on retail transactions, using 10 queries to identify category leaders (Electronics at 311K net sales), demographics (Beauty buyers avg. 40 yrs), and peaks (evening shifts at 1062 orders).  
+- Provided recommendations for revenue focus, customer loyalty, and seasonal operations via PDF report.
+
+### [Medallion SQL Data Warehouse Project (SQL Server)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Medallion-SQL-Data-Warehouse-Project) 🏗️
+- Implemented a Medallion architecture ETL pipeline in SQL Server, layering CRM/ERP CSVs into bronze/silver/gold (star schema) with quality checks (<5% nulls) and views for sales analytics.  
+- Demonstrated scalable data integration, cleansing, and BI readiness with diagrams and tests.
 
 ### [Diwali Sales Analysis (Python)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Diwali-Sales-Analysis) 📈
 - Analyzed Diwali sales data using Python (Pandas, NumPy, Matplotlib, Seaborn) to generate MIS reports on customer purchasing trends.  
@@ -31,11 +66,6 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Analyzed 12 months of pizza sales data (21,380 orders) using 13 SQL queries, calculating $817,860.05 in revenue for MIS reporting.  
 - Highlighted top pizza types (e.g., Thai Chicken Pizza at $43,434.25) and insights (e.g., Large size most ordered, 138 pizzas/day average).  
 - Optimized menu and inventory decisions using JOINs, aggregations, and window functions for business efficiency.
-
-### [Vrinda Store 2022 Sales Analysis (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Vrinda-Store-Sales-Analysis) 📊
-- Analyzed 2022 sales data for Vrinda Store using Excel to create MIS reports on sales trends by gender, age, state, and channels.  
-- Identified women (64% of sales), adults (30-49 yrs, ~50% of orders), and top states (Maharashtra, Karnataka, Uttar Pradesh) as key segments.  
-- Developed a dashboard and report recommending targeted marketing via Amazon, Flipkart, and Myntra for business growth.
 
 ---
 
