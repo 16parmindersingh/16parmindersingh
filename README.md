@@ -44,7 +44,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Engineered a relational MySQL database from Books/Customers/Orders CSVs, executing 20+ queries for MIS metrics like total revenue, category/author performance, and customer frequency.  
 - Documented insights in a PDF report for sales optimization and inventory decisions.
 
-### [SQL Retail Sales Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/SQL-Retail-Sales-Analysis(SQL)) 🛍️
+### [Retail Sales Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Retail-Sales-Analysis(SQL)) 🛍️
 - Performed MySQL analysis on retail transactions, using 10 queries to identify category leaders (Electronics at 311K net sales), demographics (Beauty buyers avg. 40 yrs), and peaks (evening shifts at 1062 orders).  
 - Provided recommendations for revenue focus, customer loyalty, and seasonal operations via PDF report.
 
@@ -57,7 +57,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Identified married women aged 26-35 in Uttar Pradesh as top buyers, enabling targeted management strategies.  
 - Visualized insights (e.g., top 10 products, 3 high-performing states) to support promotional decision-making.
 
-### [HR Analytics Dashboard (Power BI)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/HR-Analytics-Dashboard(Power-BI)) 📊
+### [HR Analytics (Power BI)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/HR-Analytics(Power-BI)) 📊
 - Developed an interactive Power BI dashboard to provide MIS insights on attrition trends for 1,416 employees, with a 16.2% attrition rate.  
 - Created 5+ KPIs (e.g., Avg Salary, Avg Tenure) and pinpointed attrition drivers (e.g., employees aged 26-35, ≤5K salary slab).  
 - Enabled HR management to refine retention strategies by targeting high-risk groups like Laboratory Technicians.
