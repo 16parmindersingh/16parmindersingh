@@ -24,7 +24,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Created a dynamic Excel dashboard for 4-year U.S. superstore sales (2014-2017), using slicers and pivots to reveal category growth (136% in Technology profits), regional leaders (California at 20%+), and seasonal peaks (51.6% in Q3-Q4).  
 - Generated MIS reports for category optimization, regional strategies, and customer segmentation.
 
-### [Financial Analytics Project (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Financial-Analytics-Project(Excel)) 💼
+### [Financial Analytics Project (Excel)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/Financial_Analytics_Project(Excel)) 💼
 - Developed a multi-dashboard Excel suite for MIS tracking (2020-2025), covering income sources, geographic profits, sales processes, and project KPIs with dynamic slicers and charts.  
 - Provided actionable insights for budget allocation, regional strategies, and workflow optimization via video demo and reports.
 
