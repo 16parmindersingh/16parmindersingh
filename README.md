@@ -44,7 +44,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Engineered a relational MySQL database from Books/Customers/Orders CSVs, executing 20+ queries for MIS metrics like total revenue, category/author performance, and customer frequency.  
 - Documented insights in a PDF report for sales optimization and inventory decisions.
 
-### [SQL Retail Sales Analysis (SQL/MySQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/SQL-Retail-Sales-Analysis) 🛍️
+### [SQL Retail Sales Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/SQL-Retail-Sales-Analysis(SQL)) 🛍️
 - Performed MySQL analysis on retail transactions, using 10 queries to identify category leaders (Electronics at 311K net sales), demographics (Beauty buyers avg. 40 yrs), and peaks (evening shifts at 1062 orders).  
 - Provided recommendations for revenue focus, customer loyalty, and seasonal operations via PDF report.
 
