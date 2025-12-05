@@ -32,7 +32,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Built an interactive Power BI dashboard for 2019-2021 superstore sales, featuring DAX measures, top-10 states visuals, and 15-day forecasts projecting upward trends.  
 - Uncovered regional dominance (California/Texas leads), category profits, and seasonal patterns for inventory and promotion planning.
 
-### [E-Commerce Sales Analysis (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/E-Commerce-Sales-Analysis(Power-BI)) 🛒
+### [E-Commerce Sales Analysis (Power BI)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/E-Commerse-Sales-Analysis(Power-BI)) 🛒
 - Analyzed Indian e-commerce data in Power BI, visualizing sales (438K total), top states (Maharashtra at 20%+), categories (Clothing at 63%), and payments (COD at 44%), while addressing seasonal losses (May-Dec).  
 - Delivered MIS insights for category focus, regional marketing, and payment strategies.
 
