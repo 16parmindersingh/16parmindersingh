@@ -40,7 +40,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Designed a Power BI dashboard for 2022-2023 mobile sales (769M total, 25-30% YoY growth), with MTD/YOY comparisons, top brands (Apple/Samsung at ~160M each), and urban peaks (Delhi at 203.9M).  
 - Highlighted digital payment shifts and Q4 festive trends for inventory and campaign recommendations.
 
-### [Online Book Store Analysis (SQL)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Online-Book-Store-Analysis(Power-BI)) 📚
+### [Online Book Store Analysis (SQL)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/Online-Book-Store-Analysis(SQL)) 📚
 - Engineered a relational MySQL database from Books/Customers/Orders CSVs, executing 20+ queries for MIS metrics like total revenue, category/author performance, and customer frequency.  
 - Documented insights in a PDF report for sales optimization and inventory decisions.
 
