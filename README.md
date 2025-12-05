@@ -16,7 +16,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 
 ## 🌟 Featured Projects
 
-### [Vrinda Store Sales Analysis (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Vrinda-Store-Sales-Analysis)) 📊
+### [Vrinda Store Sales Analysis (Excel)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/Vrinda-Store-Sales-Analysis(Excel)) 📊
 - Analyzed 2022 sales data for Vrinda Store using Excel pivot tables and visualizations to uncover MIS trends by gender (64% from women), age (50% from 30-49 yrs), state (top 3 at ~35%), and channels (Amazon/Flipkart/Myntra at 80%).  
 - Built an interactive dashboard and report with recommendations for targeted marketing to boost sales performance.
 
@@ -57,7 +57,7 @@ I aim to leverage my **analytical mindset** and **problem-solving** skills to de
 - Identified married women aged 26-35 in Uttar Pradesh as top buyers, enabling targeted management strategies.  
 - Visualized insights (e.g., top 10 products, 3 high-performing states) to support promotional decision-making.
 
-### [HR Analytics Dashboard (Power BI)](https://github.com/16parmindersingh/Data-Analytics-Portfolio/tree/main/HR-Analytics(Power-BI)) 📊
+### [HR Analytics Dashboard (Power BI)](https://github.com/16parmindersingh/MIS-Analytics-Portfolio/tree/main/HR-Analytics-Dashboard(Power-BI)) 📊
 - Developed an interactive Power BI dashboard to provide MIS insights on attrition trends for 1,416 employees, with a 16.2% attrition rate.  
 - Created 5+ KPIs (e.g., Avg Salary, Avg Tenure) and pinpointed attrition drivers (e.g., employees aged 26-35, ≤5K salary slab).  
 - Enabled HR management to refine retention strategies by targeting high-risk groups like Laboratory Technicians.
