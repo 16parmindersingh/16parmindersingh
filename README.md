@@ -1,8 +1,12 @@
 # Hi there, I'm Parminder Singh! 👋
 
-With over 9 years of experience in financial operations and administrative management, I am transitioning into the field of **management information systems (MIS)**. I have independently mastered **Advanced Excel**, **SQL (MySQL/SQL Server)**, and **Power BI** through hands-on projects that transform raw data into actionable MIS reports—focusing on sales trends, financial dashboards, and scalable data pipelines to drive business decisions and organizational growth.
+MIS Analyst with 9+ years of experience in financial operations, reporting, and administrative management. Strong background in Excel-based reporting, data reconciliation, and process automation, supporting accurate and timely decision-making.
 
-I aim to leverage my **analytical mindset** and **problem-solving** skills to deliver strategic insights through management reporting. I am passionate about automating processes and solving complex challenges with data-driven solutions. 🚀
+Over the past few years, I have expanded my skill set into Advanced Excel, Power BI, and SQL, building hands-on projects focused on sales analysis, financial dashboards, and structured reporting systems. My work emphasizes transforming raw operational data into clear, actionable insights for management.
+
+I have experience creating automated Excel reports, interactive dashboards, and basic data pipelines that reduce manual effort and improve reporting accuracy. Known for attention to detail, data validation, and improving reporting workflows.
+
+Currently seeking opportunities as an MIS Analyst / MIS Reporting Analyst, where I can contribute to reporting automation, performance tracking, and data-driven operational insights. 🚀
 
 ---
 
